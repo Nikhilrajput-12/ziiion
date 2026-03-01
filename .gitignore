@@ -1,0 +1,12 @@
+# WordPress secrets
+wp-config.php
+
+# Media uploads
+wp-content/uploads/
+
+# Cache & logs
+wp-content/cache/
+wp-content/debug.log
+
+# OS files
+.DS_Store
